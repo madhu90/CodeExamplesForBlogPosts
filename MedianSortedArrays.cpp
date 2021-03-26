@@ -6,6 +6,8 @@
 /* This program finds the median of two sorted arrays in logarithmic time and O(1) space
  * complexity. More explanation on the blog post can be found at the link below:
  *
+ * https://madhumitha-raghu1106.medium.com/median-of-two-sorted-arrays-a84a4315e85
+ *
  * This solution passed all LeetCode tests as of 03/24/2021
  */
 
